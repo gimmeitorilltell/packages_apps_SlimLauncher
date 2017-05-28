@@ -80,11 +80,6 @@ public class PackageManagerHelper {
     }
 
     /**
-     * <<<<<<< HEAD
-     * <<<<<<< HEAD
-     * =======
-     * =======
-     * >>>>>>> android-7.1.2_r2
      * Returns the package for a wallpaper picker system app giving preference to a app which
      * is not as image picker.
      */
@@ -108,10 +103,6 @@ public class PackageManagerHelper {
     }
 
     /**
-     * <<<<<<< HEAD
-     * >>>>>>> android-7.1.1_r13
-     * =======
-     * >>>>>>> android-7.1.2_r2
      * Returns true if {@param srcPackage} has the permission required to start the activity from
      * {@param intent}. If {@param srcPackage} is null, then the activity should not need
      * any permissions
