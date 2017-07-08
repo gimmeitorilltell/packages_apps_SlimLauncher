@@ -10,6 +10,6 @@
 
     <Preference
         android:key="hide_apps"
-        android:title="Hide Apps" />
+        android:title="@string/hide_apps_button_text" />
 
 </PreferenceScreen>
