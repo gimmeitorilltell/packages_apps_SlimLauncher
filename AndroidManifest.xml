@@ -122,7 +122,7 @@
         <activity
             android:name="org.slim.launcher.util.AllAppsActivity"
             android:icon="@mipmap/ic_launcher_settings"
-            android:label="Hide apps"
+            android:label="@string/hide_apps_button_text"
             android:theme="@android:style/Theme.Material.Settings"
             android:autoRemoveFromRecents="true" />
 
